@@ -272,6 +272,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
+## 🙌 Author
+**Momen H.**  
+📂 [GitHub Profile »](https://github.com/Momenh2)
+
+
 
 
 **Note**: This CPU simulator is designed for educational purposes and demonstrates fundamental computer architecture concepts. It implements a simplified but complete instruction set architecture with pipelined execution. 
